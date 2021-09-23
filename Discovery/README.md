@@ -1,4 +1,4 @@
-# Discovery Meeting
+# Discovery Meeting: 9/23/21
 
 ## Participants
 
