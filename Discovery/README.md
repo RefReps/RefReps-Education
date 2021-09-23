@@ -20,3 +20,5 @@
    - Quiz component for the second aspect for these videos
    - Leave opening for the fact that there might be certain filters in the future
    - Be modular
+
+![Screenshot](https://user-images.githubusercontent.com/77707373/134584037-a57ed3d3-15f8-4884-b88c-18659edbe8da.jpg)
