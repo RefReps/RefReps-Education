@@ -2,8 +2,8 @@
 
 ## Participants
 
-BSU: Maxx, Annie, Hunter, Jacob
-RefReps: Kyle, Branden, David
+- BSU: Maxx, Annie, Hunter, Jacob
+- RefReps: Kyle, Branden, David
 
 ## Topics Discussed
  - Understanding the purpose of the company: training referees for the gap between learning by the book and actual practical applications for employment
