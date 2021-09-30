@@ -42,5 +42,9 @@
   + BR2
   + The client want to be able to have set times that new content can be release. On Teachable all of the content is available all the time and when completion benchmarks are added, often time they are not cleared correctly and force the Owners to manually check completion. The client wants to be able to set content to be release on a schedule like one a week as this software is mostly used in high school classes where assignments are given through the semester and shouldn't all be available to skip through immediately
   + the Author can go to some content (module, video, quiz) --> the Author can hide the content from student view --> the Author can designate when/how often the content is release --> on scheduled release the student can view the content
-
++ UC7 - Be accessible from IOS, Android, and web
+  + Actor(s): Owner, Author, Student
+  + BR2
+  + The current RefReps app is only available on IOS but they want to expand to other platforms in the near future. So they want this learning management system to be avaialble from their RefReps system and be available wherever RefReps is.
+  + the user opens the RefReps app --> the user can select the learning management system from within the app --> the app will send the user to the web app for the system.
 
