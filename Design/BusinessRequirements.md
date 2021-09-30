@@ -1,5 +1,5 @@
 # Business Requirements
-+ BR1 - Decrease the cost of storage by avoiding video duplication
++ BR1 - Combine content from RefReps and RefPrep into one learning platform 
   + Previously the client had to create a duplicate of all videos needed for each course for each organzation using the course in order to keep track of video viewership and report back stats to the customer. This creates high costs to the customer who has to manage the storage for the hundreds of videos that may belong to one course. The client wants to create a single base of videos to refer back to with unique reporting so the storage costs can be minimized.
 + BR2 - Create a reliable learning management system the client can control
   + Previously the client had many issues with their previous software, Teachable, that created problems with watching videos, not correctly identifying when tasks had been completed, releasing all course content at once and not limiting students to follow course flow, and poor quiz design. The client wants to be able to have more control over how the content is delivered and improve how that content is shown to the user. To put more control in the hands of the client and not have to rely on outside software to handle the courses they are destributing to the clients.
