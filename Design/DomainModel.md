@@ -1,4 +1,5 @@
-![DomainModel](https://user-images.githubusercontent.com/77707373/135537132-79b48eca-ab23-48dc-88c2-604b1fd227e6.jpeg)
+
+![DomainModel](https://user-images.githubusercontent.com/77707373/135538853-89d06b1a-defa-443f-bdff-db11f646c2a6.jpeg)
 
 
 # Classes
