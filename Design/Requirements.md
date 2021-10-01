@@ -24,4 +24,4 @@
 - NR 2: Use logins from [name] database
 - NR 3: Accessible on IOS, Android and websites.
 - NR 4: The system will use logins connected to the current database of users from Refreps 
-- NR 5: The system should not allow duplicate videos
+- NR 5: The system should point to one set of course materials per cirriculum, and separate data by organization/required data sets 
