@@ -9,6 +9,8 @@
 - FR 8: The Owner (Company) shall be able to view courses and students that are in the system. (High)
 - FR 9: The Owner (Company) shall be able to remove any courses and students that are in the system. (High)
 - FR 10: The Owner (Company) shall be able to edit any courses and students that are in the system. (High)
+- FR 11: The Owner shall be able to add to/edit their curriculum (Videos, Quizzes, Descriptors). (Medium)
+- FR 12: The Owner shall be able to add students to their curriculum (From csv files). (Medium)
 - FR 11: A Course shall have a limit of how many students can be placed in it. (Low)
 - FR 12: A Course shall have a specified number of classes that it will have. (Low)
 - FR 13: A Course shall have a lecture drop system that allows modules to be accessed/opened at a certain date/time. (Medium)
