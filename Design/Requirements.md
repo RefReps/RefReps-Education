@@ -22,7 +22,7 @@
 
 
 # Non-functional Requirements
-- NR 1: Upload videos to AWS s3 database for streaming
+- NR 1: Upload videos to/from AWS s3 database for streaming
 - NR 2: Use logins from [name] database
 - NR 3: Accessible on IOS, Android and websites.
 - NR 4: The system will use logins connected to the current database of users from Refreps 
