@@ -2,5 +2,8 @@
 ## Link to prototype on Figma:
 [Prototype of RefReps Web App](https://www.figma.com/file/W49rUiemzRxI2C4crcQyYR/REF_PREP?node-id=0%3A1)
 
-## Link to prototype video on Youtube: 
-[Video of RefReps Prototype](https://youtu.be/5Sgc-F2zcyI)
+
+## Prototype video
+
+[![Alternate Text]({https://user-images.githubusercontent.com/77707373/135946133-2a36ee1e-fd68-442d-bedc-656dad469a79.jpg})]({https://youtu.be/5Sgc-F2zcyI} "Prototype Video")
+
