@@ -41,13 +41,13 @@
 
 
 # Non-functional Requirements
-- NR 1: Upload videos to/from AWS s3 database for streaming
+- NR 1: Upload videos to/from AWS s3 database for streaming. (High)
   - BR1
-- NR 2: Use logins from [name] database
+- NR 2: Use logins from [name] database. (High)
   - BR1
-- NR 3: Accessible on IOS, Android and websites.
+- NR 3: Accessible on IOS, Android and websites. (Medium)
   - BR2
-- NR 4: The system will use logins connected to the current database of users from Refreps 
+- NR 4: The system will use logins connected to the current database of users from Refreps. (High) 
   - BR1
-- NR 5: The system should point to one set of course materials per cirriculum, and separate data by organization/required data sets 
+- NR 5: The system should point to one set of course materials per cirriculum, and separate data by organization/required data sets. (High)
   - BR1
