@@ -33,9 +33,9 @@
   - BR2
 - FR 17: An Author will be able to add sub-videos on a module that is an additional requirement for students to watch. (Low)
   - BR2
-- FR 18: The database should report student video analytics like: watch time, views
+- FR 18: The database should report student video analytics like: watch time, views. (High)
   - BR1 and BR2
-- FR 19: The database should report video analytics per corporation
+- FR 19: The database should report video analytics per corporation. (High)
   - BR1 and BR2
 
 
