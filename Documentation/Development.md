@@ -6,13 +6,13 @@
   -  https://nodejs.org/en/download/
   -  launch software after it finishes downloading
   -  Select:
-    - **Run**
-    - Welcome screen --> **Next**
-    - License Agreement --> Agree --> **Next**
-    - Installation location --> **Next**
-    - Installation components --> Accept defaults --> **Next**
-    - **Install**
-    - **Finish**
+      - **Run**
+      - Welcome screen --> **Next**
+      - License Agreement --> Agree --> **Next**
+      - Installation location --> **Next**
+      - Installation components --> Accept defaults --> **Next**
+      - **Install**
+      - **Finish**
 - Install nodemon
   - Open command line 
   - Run this command:
