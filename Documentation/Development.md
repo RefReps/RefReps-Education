@@ -49,7 +49,7 @@
   - Open command line
   - Run this command: 
     - git clone https://github.com/mkidd04/refprep-frontend
-### Running the API
+### Running the App
 - Navigate to the root of the repository
   - Run the command:
     - ng serve --open
