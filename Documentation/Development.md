@@ -1,6 +1,6 @@
 
 # Development Environment Manual
-## BACKEND (api)
+## BACKEND (API)
 ### Install Prerequisites
 - Install Node.js (v14.18.1 is tested)
   -  https://nodejs.org/en/download/
@@ -28,6 +28,8 @@
     - npm install
   - Create a .env file at the root of the repository
     - Copy the contents of the .sample-env file into the .env file and update the info as specified
+    - *For testing purposes use the following address for DB_CONNECT:
+      - "mongodb+srv://sodadev:Mongodb123@cluster0.ocf1a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" 
     - Remove any square brackets
     - Put double quotes around values
 ### Running the API
@@ -37,3 +39,25 @@
     - application will refuse to execute if the .end file is not populated
 
 ## FRONTEND
+### Install Prerequisites
+- Install Angular CLI (v12.2.9 is tested)
+  - Open command line
+  - Run this command:
+    - npm install -g @angular/cli
+### Clone Repository 
+- Create an empty folder and clone this repository into that folder
+  - Open command line
+  - Run this command: 
+    - git clone https://github.com/mkidd04/refprep-frontend
+### Running the API
+- Navigate to the root of the repository
+  - Run the command:
+    - ng serve --open
+- The app should automatically open in a browser window
+
+## Test the App
+- Go to the home page (http://localhost:4200/home)
+- Select courses in the sidebar
+- two courses should be available:
+  - Football 101
+  - Basketball 101 
