@@ -29,7 +29,7 @@
   - Create a `.env` file at the root of the repository
     - Copy the contents of the `.sample-env` file into the `.env` file and update the info as specified
     - *For testing purposes use the following address for DB_CONNECT:
-      - `"mongodb+srv://sodadev:Mongodb123@cluster0.ocf1a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"`
+      - `"[DB URI]"`
     - Remove any square brackets
     - Put double quotes around values
 ### Running the API
