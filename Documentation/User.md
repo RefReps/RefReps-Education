@@ -11,4 +11,4 @@ How-To:
 
 ### View Available Courses 
 
-1. From the sidebar on the left side, click the last button []!(https://drive.google.com/file/d/1E3kl40aC9-ntzZBjxt1WLcFa7aoZRuIV/view?usp=sharing) ("courses"); this will bring you to the course dashboard
+1. From the sidebar on the left side, click the last button []!(https://github.com/[mkidd04]/[RefReps-Education]/blob/[main]/coursebutton.jpg?raw=true) ("courses"); this will bring you to the course dashboard
