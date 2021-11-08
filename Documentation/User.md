@@ -11,7 +11,8 @@ How-To:
 
 ### View Available Courses 
 
-1. From the sidebar on the left side, click the last button []!(https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course%20button.png) ("courses"); this will bring you to the course dashboard
+1. From the sidebar on the left side, click the last button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png)<br> 
+   This will bring you to the course dashboard
 
 ### View Content in Available courses
 
