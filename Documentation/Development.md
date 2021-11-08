@@ -58,6 +58,6 @@
 ## Test the App
 - Go to the home page (http://localhost:4200/home)
 - Select courses in the sidebar
-- two courses should be available:
+- Two courses should be available:
   - Football 101
   - Basketball 101 
