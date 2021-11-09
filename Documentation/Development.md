@@ -22,6 +22,23 @@
   - Open command line
   - Run this command: 
     - `git clone https://github.com/hunterdurbin/refreps-back-end`
+### File Structure
+- Here is what the main file strucutre looks like
+
+![file structure api](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/api-structure.png)
+- public
+  - Houses static files that are used by the api.
+  - Not mainly used for anything or core related to the api as of now
+- routers
+  - Catches http request and executes commands
+  - Sends back responses to the client
+- schemas
+  - Holds the structure of how each entity is made
+  - Uses mongoose to create schemas
+- server
+  - Creates the express application
+
+
 ### Configuring Environment
 - Navigate to the root of the repository 
   - Run this command:
