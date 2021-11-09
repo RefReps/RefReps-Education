@@ -21,6 +21,17 @@
 
 ### Manually Deploying the Frontend
 
+- QUICK LOCAL DEPLOYMENT
+- To run the dev version of the application, download the latest release source from https://github.com/mkidd04/refprep-frontend/releases
+- run `ng serve` at the root of the application
+- It should host on `localhost:4200`
+
+###
+- OFFICIAL DEPLOYMENT
 - Download the latest release version from https://github.com/mkidd04/refprep-frontend/releases
-- Move the directory on the machine to host the API application
-- Navigate
+  - To build a new distribution, run `ng build` on the root directory for the repository 
+- Download the dist file
+  - This folder holds the static index file
+  - This is a SPA and a pushState application
+- Move the dist dir on the machine to host the API application
+- Use an application that can host static, pushState files
