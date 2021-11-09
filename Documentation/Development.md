@@ -26,17 +26,31 @@
 - Here is what the main file strucutre looks like
 
 ![file structure api](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/api-structure.png)
-- public
+- public/
   - Houses static files that are used by the api.
   - Not mainly used for anything or core related to the api as of now
-- routers
+- routers/
   - Catches http request and executes commands
   - Sends back responses to the client
-- schemas
+- schemas/
   - Holds the structure of how each entity is made
   - Uses mongoose to create schemas
-- server
+- server/
   - Creates the express application
+- test/
+  - Holds all of the test
+  - Matches the file structure of the root repository
+- uploads/ **Default location for uploads
+  - Holds the downloaded files
+  - This file location is dependent on the `.env` variable `LOCAL_UPLOAD_PATH`
+- utils/
+  - Holds extra utilities for the other directories to use
+  - Some include db querying, connection creating, validation, etc
+- .env
+  - File that must be created and content copied from `.sample-env`
+- server.js
+  - File that makes the express application listen on a port
+  - Main file to run the application
 
 
 ### Configuring Environment
@@ -67,10 +81,6 @@
   - Open command line
   - Run this command: 
     - `git clone https://github.com/mkidd04/refprep-frontend`
-
-### File Structure
-Main file structure: 
-[]()
 ### Running the App
 - Navigate to the root of the repository
   - Run the command:
