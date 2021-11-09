@@ -86,24 +86,24 @@
 ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/frontEnd-fileStructure.png)
 
 - /components
-- - Houses the individual Angular components logic used in the application +
-- - components.module.ts
-- - - typescript file where components are imported and need to be exported
+  - Houses the individual Angular components logic used in the application +
+  - components.module.ts
+    - typescript file where components are imported and need to be exported
 
 - /models
-- - Typescript files that model the data used in the backend api 
+  - Typescript files that model the data used in the backend api 
 
--/modules
-- - a folder used to create components where multiple components are called 
+- /modules
+  - a folder used to create components where multiple components are called 
 
--/shared/components
-- - components which are shared throughout the whole application and show up in every page
+- /shared/components
+  - components which are shared throughout the whole application and show up in every page
 
 - /app-routing.module.ts
-- - the routes/path for the components to navigate 
+  - the routes/path for the components to navigate 
 
 - /service
-- - houses the api calls used 
+  - houses the api calls used 
 
 
 
