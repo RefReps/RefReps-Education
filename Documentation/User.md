@@ -17,18 +17,16 @@ How-To:
 ### View Content in Available courses
 
 1. Follow the steps above to get to the course dashboard 
+![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course-dashboard.png)
 2. Click on the desired course name
-3. When the course page loads, click on the section name and module name you would like to view
-4. The files housed in the module will be listed above the file upload section
+3. When the course page loads the section and module info will load
+![image](https://user-images.githubusercontent.com/29185972/140863619-6613ac74-a31d-4a18-9c67-6f2e1e0d40c9.png)
+4. The files housed in the module will be listed
 
 ### Upload a file into a Module 
+1. Click the edit module button at the bottom of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
+2. when the page loads, follow the steps above to navigate to the desired module
+3. click "select file" ![image](https://user-images.githubusercontent.com/29185972/140863962-cc3fe24e-0de3-4404-8338-f5d70e362a76.png)
+4. when the desired file is chosen, click the upload button to the right ![image](https://user-images.githubusercontent.com/29185972/140864044-6094671a-75b4-4349-8aa7-6e0340f20db4.png)
+5. When done editing, click the finish button at the bottom of the sections
 
-1. Follow the steps above to view the contents of a course
-2. Click the module you would like to upload files to
-3. At the bottom of each module view there is an upload file section
-4. Click "Select File" 
-5. This will bring up a file explorer box
-6. choose the file(s) you would like to upload
-7. Select "open" on the file explorer box.
-8. When the box closes, click the blue "upload" button
-9. Reload the page to see the contents listed inside of the module
