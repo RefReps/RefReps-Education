@@ -67,6 +67,10 @@
   - Open command line
   - Run this command: 
     - `git clone https://github.com/mkidd04/refprep-frontend`
+
+### File Structure
+Main file structure: 
+[]()
 ### Running the App
 - Navigate to the root of the repository
   - Run the command:
