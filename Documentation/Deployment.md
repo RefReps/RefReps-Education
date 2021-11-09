@@ -35,3 +35,9 @@
   - This is a SPA and a pushState application
 - Move the dist dir on the machine to host the API application
 - Use an application that can host static, pushState files
+
+## Setting up the Database (Mongodb)
+
+- Reference the development documentation to setup a deployment for the mongodb
+  - https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Development.md#database-mongodb
+- Make sure to use your database URI as the DB_CONNECT `.env` variable in the node `.env` file
