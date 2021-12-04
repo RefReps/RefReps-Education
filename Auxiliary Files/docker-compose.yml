@@ -1,0 +1,30 @@
+version: '3'
+
+services: 
+
+  frontend:
+    build: ./refprep-frontend
+    image: frontend
+    ports:
+    - "4200:80"
+    container_name: frontend
+
+  backend: 
+    build: ./refreps-back-end
+    image: backend
+    ports:
+    - '3000:3000'
+    environment:
+      - MONGO_URL=mongodb+srv://sodadev:Mongodb123@cluster0.ocf1a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+    container_name: backend
+    links:
+     - database
+    depends_on:
+     - database
+
+  database:
+    image: mongo
+    volumes:
+     - "/data/db:/data/db"
+    ports:
+     - "27017:27017"
