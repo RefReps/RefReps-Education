@@ -22,6 +22,7 @@ How-To:
 2. Enter the desired course name into the text box.
 3. If you would like the course to be available on the dashboard once it is created, set the "Publish Course" to be true
 4. When the information on the dialog is filled in, press submit 
+5. The course will now be available on the dashboard
 
 ### View Content in Available courses
 
@@ -31,6 +32,8 @@ How-To:
 3. When the course page loads the section and module info will load
 ![image](https://user-images.githubusercontent.com/29185972/140863619-6613ac74-a31d-4a18-9c67-6f2e1e0d40c9.png)
 4. The files housed in the module will be listed
+
+### Add Section to Available Course
 
 ### Upload a file into a Module 
 1. Click the edit module button at the bottom of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
