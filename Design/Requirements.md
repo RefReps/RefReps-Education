@@ -39,9 +39,9 @@
   - BR1 and BR2
 - FR 20: Students should be able to take quizzes. (High)
   - BR2
-- FR 21: Students can view quiz results only after completing the quiz
+- FR 21: Students can view quiz results only after completing the quiz. (Medium)
   - BR2
-- FR 22: Authors can see Students quiz results (number of attempts and grade)
+- FR 22: Authors can see Students quiz results (number of attempts and grade). (Medium)
   - BR2
 
 
