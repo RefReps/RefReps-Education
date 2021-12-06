@@ -37,6 +37,12 @@
   - BR1 and BR2
 - FR 19: The database should report video analytics per corporation. (High)
   - BR1 and BR2
+- FR 20: Students should be able to take quizzes. (High)
+  - BR2
+- FR 21: Students can view quiz results only after completing the quiz
+  - BR2
+- FR 22: Authors can see Students quiz results (number of attempts and grade)
+  - BR2
 
 
 
