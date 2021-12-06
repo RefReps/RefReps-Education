@@ -67,4 +67,4 @@ How-To:
 ### Stream the uploaded videos
 1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
 2. When the list of contents is available, click the name of the video you wish to watch
-3. The video will be brought up in another page 
+3. The video will be brought up in another page ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/video-streaming.png)
