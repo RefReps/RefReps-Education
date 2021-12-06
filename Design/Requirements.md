@@ -43,6 +43,7 @@
   - BR2
 - FR 22: Authors can see Students quiz results (number of attempts and grade). (Medium)
   - BR2
+- FR 23: Owners and Authors can add text to modules. (Medium)
 
 
 
