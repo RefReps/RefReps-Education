@@ -36,7 +36,7 @@ How-To:
 ### Add Section to Available Course
 1. Click the edit module button at the bottom right of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
 2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-button.png)
-3. A dialog box will appear, enter the desired section name <br> [add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
+3. A dialog box will appear, enter the desired section name <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
 
 
 ### Upload a file into a Module 
