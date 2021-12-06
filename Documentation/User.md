@@ -49,12 +49,10 @@ How-To:
 ### Add content to a module
 1. From the edit currriculum page, click the green "+" ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-module-button.png) next to the module that you wish to add content to
 2. In the dialog box that pops up<br>  ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-content-dialog.png) <br>click the blue paper clip button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-file-button.png)to open file explorer. Choose the desired file to be upload and click "open" in file explorer. 
-3. the dialog box will now have the file, click the green sumbit button at the bottom of the dialog to add the file to the module
+3. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
+4. Click the module name in the course to see the uploaded content
 
-### Upload a file into a Module 
-1. Click the edit module button at the bottom of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
-2. when the page loads, follow the steps above to navigate to the desired module
-3. click "select file" ![image](https://user-images.githubusercontent.com/29185972/140863962-cc3fe24e-0de3-4404-8338-f5d70e362a76.png)
-4. when the desired file is chosen, click the upload button to the right ![image](https://user-images.githubusercontent.com/29185972/140864044-6094671a-75b4-4349-8aa7-6e0340f20db4.png)
-5. When done editing, click the finish button at the bottom of the sections
+### Delete a Section 
+1. From the edit curriculum page, next to the course you wish to delete, press the red "DEL" button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-button.png)
+2. A dialog box will open, click the "Delete" button to finish the deletion process <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-section-dialog.png)
 
