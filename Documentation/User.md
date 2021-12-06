@@ -38,6 +38,7 @@ How-To:
 2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-button.png)
 3. A dialog box will appear, enter the desired section name, and click the submit button to finish the section creation process <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
 4. The section name will populate the screen when completed
+5. Click the "finish button" at the bottom of the page to finish the curriculum editing process
 
 ### Add Module to a Section
 1. Refer to the first step of the last instruction to get to the edit curriculum page
@@ -45,14 +46,25 @@ How-To:
 3. To the right of the section name, cick the greeen "+" button ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-module-button.png)
 4. A dialog box will appear prompting you to enter the desired name of the course. <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)<br>
 5. The module will show below the section name when completed
+6. Click the finish button at the bottom of the page to finish the curriculum editing process
 
 ### Add content to a module
 1. From the edit currriculum page, click the green "+" ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-module-button.png) next to the module that you wish to add content to
 2. In the dialog box that pops up<br>  ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-content-dialog.png) <br>click the blue paper clip button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-file-button.png)to open file explorer. Choose the desired file to be upload and click "open" in file explorer. 
 3. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
 4. Click the module name in the course to see the uploaded content
+5. Click the finish button at the bottom of the page to finish the curriculum editing process
 
 ### Delete a Section 
-1. From the edit curriculum page, next to the course you wish to delete, press the red "DEL" button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-button.png)
+1. From the edit curriculum page, next to the section you wish to delete, press the red "DEL" button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-button.png)
 2. A dialog box will open, click the "Delete" button to finish the deletion process <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-section-dialog.png)
+3. Click the finish button at the bottom of the page to finish the curriculum editing process
 
+### Reorder Section, Module, or Content in a Module
+1. From the edit curriculum page, click and hold the name of the component you wish to rearrange and move it to the desired position. 
+2. Click the finish button at the bottom of the page to finish the curriculum editing process
+
+### Stream the uploaded videos
+1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
+2. When the list of contents is available, click the name of the video you wish to watch
+3. The video will be brought up in another page ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/video-stream.png)
