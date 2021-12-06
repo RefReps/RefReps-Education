@@ -17,7 +17,7 @@ How-To:
 ## Add a Course 
 
 1. Below the availale courses, click the "Add Course" button ![add-course-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add_course_button.png)<br>
-   This will bring you to a dialog box
+   This will bring you to a dialog box<br>
    ![add-course-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Add-course-dialog.png)<br>
 2. Enter the desired course name into the text box.
 3. If you would like the course to be available on the dashboard once it is created, set the "Publish Course" to be true
