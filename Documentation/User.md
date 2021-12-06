@@ -34,10 +34,22 @@ How-To:
 4. The files housed in the module will be listed
 
 ### Add Section to Available Course
-1. Click the edit module button at the bottom right of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
+1. When viewing the content in courses click the edit curriculum button at the bottom right of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
 2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-button.png)
-3. A dialog box will appear, enter the desired section name <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
+3. A dialog box will appear, enter the desired section name, and click the submit button to finish the section creation process <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
+4. The section name will populate the screen when completed
 
+### Add Module to a Section
+1. Refer to the first step of the last instruction to get to the edit curriculum page
+2. A section is needed to create a module, if there are no sections available, follow the steps above to create one.
+3. To the right of the section name, cick the greeen "+" button ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-module-button.png)
+4. A dialog box will appear prompting you to enter the desired name of the course. <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)<br>
+5. The module will show below the section name when completed
+
+### Add content to a module
+1. From the edit currriculum page, click the green "+" ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-module-button.png) next to the module that you wish to add content to
+2. In the dialog box that pops up<br>  ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-content-dialog.png) <br>click the blue paper clip button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-file-button.png)to open file explorer. Choose the desired file to be upload and click "open" in file explorer. 
+3. the dialog box will now have the file, click the green sumbit button at the bottom of the dialog to add the file to the module
 
 ### Upload a file into a Module 
 1. Click the edit module button at the bottom of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
