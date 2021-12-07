@@ -9,8 +9,8 @@
  - Download this [docker-compose file](https://drive.google.com/file/d/1zmJKuP3HE_h4uyZYCe6pyHYRG-okEYF-/view), and put in the root of the folder you created
  - The root folder should look like this:
     - ![backend_tree](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/docker-root.png)
- - Open a terminal in the root the folder and run this 
-   - `command docker-compse up --build -d`
+ - Open a terminal in the root the folder and run this command
+   - `docker-compse up --build -d`
  - After anywhere from a few seconds to a few mintes of text scrolling across the screen, you should see:
    - `Creating frontend           ... done`
    - `Creating refreps_database_1 ... done`
