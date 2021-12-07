@@ -46,27 +46,25 @@
 - public/
   - Houses static files that are used by the api.
   - Not mainly used for anything or core related to the api as of now
-- routers/
+- src/controllers/
+  - Makes responses from request for the `src/express-callback` to handle
+- src/database/
+  - Holds database information, such as model information
+- src/express-callback/
+  - Creates callbacks for express routers to use
+- src/routers/
   - Catches http request and executes commands
   - Sends back responses to the client
-- schemas/
-  - Holds the structure of how each entity is made
-  - Uses mongoose to create schemas
-- server/
-  - Creates the express application
-- test/
-  - Holds all of the test
-  - Matches the file structure of the root repository
+- src/use-cases/
+  - Holds base functionality for adding foundational features
+- src/utils/
+  - Holds extra utilities for the other directories to use
 - uploads/ **Default location for uploads
   - Holds the downloaded files
   - This file location is dependent on the `.env` variable `LOCAL_UPLOAD_PATH`
-- utils/
-  - Holds extra utilities for the other directories to use
-  - Some include db querying, connection creating, validation, etc
 - .env
   - File that must be created and content copied from `.sample-env`
-- server.js
-  - File that makes the express application listen on a port
+- index.js
   - Main file to run the application
 
 
