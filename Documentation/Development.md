@@ -100,7 +100,9 @@
     - `git clone https://github.com/mkidd04/refprep-frontend`
 
 ### File Structure
-![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/frontEnd-fileStructure.png)
+
+![frontend-tree](https://user-images.githubusercontent.com/77707373/144947512-a841c14b-8605-437b-894d-0b5ca1febe81.jpg)
+
 
 - /components
   - Houses the individual Angular components logic used in the application +
