@@ -1,5 +1,22 @@
 
 # Development Environment Manual
+
+## Docker-based Replication
+ - Create an empty folder.
+ - Open a terminal and run theses commands:  
+  - `git clone https://github.com/hunterdurbin/refreps-back-end`
+  - `git clone https://github.com/mkidd04/refprep-frontend` 
+ - Obtain our docker-compose file, and place it in root of folder. 
+ - Open a terminal in the root the folder and run this 
+ - `command docker-compse up --build -d`
+ - After anywhere from a few seconds to a few mintes of text scrolling across the screen, you should see:
+ - `Creating frontend           ... done`
+ - `Creating refreps_database_1 ... done`
+ - `Creating backend            ... done`
+ - After you see the above message, open a browser and go to http://localhost:4200/
+  - You should see the green and white homepage
+  
+ 
 ## BACKEND (API)
 ### Install Prerequisites
 - Install Node.js (v14.18.1 is tested)
