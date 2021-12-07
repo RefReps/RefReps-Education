@@ -1,4 +1,12 @@
-# Deployment
+# Docker Deployment
+
+## Local Machine Deployment
+- For a local computer deployment, follow the steps from Docker-based Replication in Development documentation
+  - https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Development.md#docker-based-replication
+- The application will automatically build the client side as a SPA web page, launch the api, and setup a mongodb
+- Port forward port 80 on your machine to deploy the application
+
+# Manual Deployment
 
 ## Deploying the API
 
