@@ -3,10 +3,10 @@
 
 ## Docker-based Replication
  - Create an empty folder.
- - Open a terminal and run theses commands:  
+ - Open a terminal, navigate to your folder and run theses commands:  
    - `git clone https://github.com/hunterdurbin/refreps-back-end`
    - `git clone https://github.com/mkidd04/refprep-frontend` 
- - Obtain our docker-compose file, and place it in root of folder. 
+ - Download this [docker-compose file](https://github.com/mkidd04/RefReps-Education/blob/main/Auxiliary%20Files/docker-compose.yml), and put in the root of the folder you created
  - Open a terminal in the root the folder and run this 
    - `command docker-compse up --build -d`
  - After anywhere from a few seconds to a few mintes of text scrolling across the screen, you should see:
