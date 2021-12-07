@@ -18,7 +18,8 @@
  - After you see the above message, open a browser and go to http://localhost:4200/ or http://localhost/
    - You should see the green and white homepage
  - Experiencing problems?
-   - make sure that the ports 3000, 4200, 27017, and 80 are open
+   - ensure ports 3000, 4200, 27017, and 80 are open
+   - ensure docker commands are run in the terminal at the folder you created for this project
   
  
 ## BACKEND (API)
