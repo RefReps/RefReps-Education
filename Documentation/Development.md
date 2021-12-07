@@ -6,6 +6,7 @@
  - Open a terminal, navigate to your folder and run theses commands:  
    - `git clone https://github.com/hunterdurbin/refreps-back-end`
    - `git clone https://github.com/mkidd04/refprep-frontend` 
+ - ![backend_tree](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/docker-root.png)
  - Download this [docker-compose file](https://drive.google.com/file/d/1zmJKuP3HE_h4uyZYCe6pyHYRG-okEYF-/view), and put in the root of the folder you created
  - Open a terminal in the root the folder and run this 
    - `command docker-compse up --build -d`
@@ -13,8 +14,10 @@
    - `Creating frontend           ... done`
    - `Creating refreps_database_1 ... done`
    - `Creating backend            ... done`
- - After you see the above message, open a browser and go to http://localhost:4200/
+ - After you see the above message, open a browser and go to http://localhost:4200/ or http://localhost/
    - You should see the green and white homepage
+ - Experiencing problems?
+   - make sure that the ports 3000, 4200, 27017, and 80 are open
   
  
 ## BACKEND (API)
