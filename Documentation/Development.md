@@ -6,7 +6,7 @@
  - Open a terminal, navigate to your folder and run theses commands:  
    - `git clone https://github.com/hunterdurbin/refreps-back-end`
    - `git clone https://github.com/mkidd04/refprep-frontend` 
- - Download this [docker-compose file](https://github.com/mkidd04/RefReps-Education/blob/main/Auxiliary%20Files/docker-compose.yml), and put in the root of the folder you created
+ - Download this [docker-compose file](https://drive.google.com/file/d/1zmJKuP3HE_h4uyZYCe6pyHYRG-okEYF-/view), and put in the root of the folder you created
  - Open a terminal in the root the folder and run this 
    - `command docker-compse up --build -d`
  - After anywhere from a few seconds to a few mintes of text scrolling across the screen, you should see:
