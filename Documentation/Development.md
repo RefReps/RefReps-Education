@@ -8,7 +8,7 @@
   - `git clone https://github.com/mkidd04/refprep-frontend` 
  - Obtain our docker-compose file, and place it in root of folder. 
  - Open a terminal in the root the folder and run this 
- - `command docker-compse up --build -d`
+  - `command docker-compse up --build -d`
  - After anywhere from a few seconds to a few mintes of text scrolling across the screen, you should see:
  - `Creating frontend           ... done`
  - `Creating refreps_database_1 ... done`
