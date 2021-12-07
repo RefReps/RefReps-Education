@@ -89,6 +89,12 @@
     - `npm run devStart`
     - application will refuse to execute if the `.env` file is not populated
     - see the README.md notes in the API repository for additional `.env` information
+### Running Tests
+- Navigate to the root of the repository
+  - Run the command:
+    - `npm test`
+    - the application will test all files with `.spec` or `.test` using jest
+    - code coverage will be shown and logged in the `/coverage` dir
 
 ## FRONTEND
 ### Install Prerequisites
