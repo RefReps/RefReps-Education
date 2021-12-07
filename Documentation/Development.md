@@ -41,7 +41,7 @@
     - `git clone https://github.com/hunterdurbin/refreps-back-end`
 ### File Structure
 - Here is what the main file strucutre looks like
-- ![backend_tree](https://user-images.githubusercontent.com/77707373/144946305-7522a129-2b64-4c1b-b55d-8113e1e6a570.jpg)
+- ![backend_tree](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/backend-tree.png)
 
 - public/
   - Houses static files that are used by the api.
