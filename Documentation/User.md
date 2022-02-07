@@ -11,18 +11,30 @@ How-To:
 
 ### View Available Courses 
 
-1. From the sidebar on the left side, click the last button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png)<br> 
-   This will bring you to the course dashboard
+1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png)<br> 
+   This will bring you to the course dashboard that shows all the available courses
    
 ## Add a Course 
+1. From the sidebar on the left of the screen, click the Create Course tab, ![course create tab](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png) underneath the available course button 
+- The application allows users to create a course from scratch and to copy an existing course along with any exisiting material
 
-1. Below the availale courses, click the "Add Course" button ![add-course-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add_course_button.png)<br>
+# Create a course from scratch
+1. To create a course from scratch, click the "Create New Course" button ![add-course-from-scratch](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/create-new-course-scratch.png)<br>
    This will bring you to a dialog box<br>
    ![add-course-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Add-course-dialog.png)<br>
 2. Enter the desired course name into the text box.
 3. If you would like the course to be available on the dashboard once it is created, set the "Publish Course" to be true
 4. When the information on the dialog is filled in, press submit 
 5. The course will now be available on the dashboard
+
+# Create a course by copying another course
+1. To create a copy of an existing course, while in the add course tab, click the "Create From Template" button ![add-course-from-copy](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/create-new-course-copy.png)
+2. This will bring you to a dialog ![add-course-copy-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/copy-course-dialog.png)
+3. In the first box, select the existing course you would like to copy
+4. Enter the name for the new course
+5. Then press "Submit" to complete the copy
+6. The new course can now be seen and accessed from the view course tab 
+
 
 ### View Content in Available courses
 
