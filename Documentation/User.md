@@ -69,7 +69,7 @@ How-To:
 2. A section is needed to create a module, if there are no sections available, follow the steps above to create one.
 3. To the right of the section name, click the three vertical dots ![add-module-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
 4. A small box will appear underneath the three dots, click the blue "+" button ![add-module-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/blue-plus-button.png)<br>
-5. You will be presented with a dialog box ![add-module-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-module-dialog.png)
+5. You will be presented with a dialog box <br> ![add-module-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-module-dialog.png)
 6. Enter the desired name of the module
 7. Click submit to finish adding the module to the current section
 8. Click the section name in order to reveal that the module has been added
