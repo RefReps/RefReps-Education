@@ -24,7 +24,7 @@ How-To:
 4. You should be logged in and at the home page
 
 # View Available Courses 
-1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png) 
+1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course_icon.png) 
    This will bring you to the course dashboard that shows all the available courses
 # Admin/Author View 
 ## Add a Course 
@@ -34,7 +34,7 @@ How-To:
 ### Create a course from scratch
 1. To create a course from scratch, click the "Create New Course" button <br>![add-course-from-scratch](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/create-new-course-scratch.png)<br>
 - This will bring you to a dialog box<br>
-   ![add-course-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Add-course-dialog.png)<br>
+   ![add-course-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/Add-course-dialog.png)<br>
 2. Enter the desired course name into the text box.
 3. If you would like the course to be available on the dashboard once it is created, set the "Publish Course" to be true
 4. When the information on the dialog is filled in, press submit 
@@ -51,7 +51,7 @@ How-To:
 
 ## View Content in Available courses
 1. Follow the steps above to get to the course dashboard 
-![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course-dashboard.png)
+![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-dashboard.png)
 2. Click on the desired course name
 3. When the course page loads the section and module info will load
 ![image](https://user-images.githubusercontent.com/29185972/140863619-6613ac74-a31d-4a18-9c67-6f2e1e0d40c9.png)
@@ -60,8 +60,8 @@ How-To:
 ## Building out a curriculum
 ### Add Section to Available Course
 1. When viewing the content in courses click the edit curriculum button at the bottom right of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
-2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-button.png)
-3. A dialog box will appear, enter the desired section name, and click the submit button to finish the section creation process <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
+2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-section-button.png)
+3. A dialog box will appear, enter the desired section name, and click the submit button to finish the section creation process <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-section-dialog.png)
 4. The section name will populate the screen when completed
 5. Click the "finish button" at the bottom of the page to finish the curriculum editing process
 ### Add Module to a Section
