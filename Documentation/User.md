@@ -68,11 +68,45 @@ How-To:
 ## Add content to a module
 - A module is required to add content to a course
 ### Add video content to a module 
-1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) next to the module that you wish to add content to
-2. In the dialog box that pops up, be sure to be in the "video" tab<br>![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-content-dialog.png)<br>click the blue paper clip button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-file-button.png)to open file explorer. Choose the desired file to be upload and click "open" in file explorer. 
-3. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
-4. Click the module name in the course to see the uploaded content
-5. Click the finish button at the bottom of the page to finish the curriculum editing process
+1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add content to
+2. In the dialog box that pops up, be sure to be in the "video" tab<br>![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-content-dialog.png)
+3. Click the blue paper clip button to open file explorer. Choose the desired file to be upload and click "open" in file explorer. 
+4. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
+5. Click the module name in the course to see the uploaded content
+6. Click the finish button at the bottom of the page to finish the curriculum editing process
+
+### Add quiz content to a module
+1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add content to
+2. In the dialog box that pops up, be sure to be in the "quiz" tab<br> ![add-quiz-content](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-content-dialog-quiz.png) 
+3. Enter the desired name for the quiz 
+4. Click the "Create Quiz" button 
+5. The page will reload and an empty quiz will be made under the selected module
+
+### Add question to a quiz
+1. From the edit currriculum page, click the three vertical dots to the right of the quiz name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add questions to
+2. A small box will appear underneath the three dots, click the pencil button ![add-quiz-question-pencil](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/pencil-button.png)<br>
+3. A dialog box will appear with the title "Quiz Builder" <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/quiz-builder-dialog.png)
+4. Add the question that you would like to ask, and select the type of question it will be, i.e. Multiple Choice, True/False, or text box free response
+   - The selected question type will change the options that you have moving forward
+5. When done entering the question and the type of question, click next.  The next step will change depending on the type of question that was chosen
+#### Multiple Choice Question
+1. If you selected the "multiple choice" question type, the next step will present you with four textboxes labeled A, B, C, and D respectively. Here you will put in the options that you want to be made available. <br> ![multiple-choice-options](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/multiple-choice-options.png)
+2. Once each option is entered into the text boxes, select the letter that corresponds to the correct answer ![multiple-choice-answer-options](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/multiple-choice-answer-options.png)
+3. When you have entered all the options and selected the correct answer, click "next"
+#### True False Question 
+1. If you selected the "True False" question type, you will be presented with two buttons <br> ![true-false-option](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/true-false-options.png)
+2. Select the correct answer to the question 
+3. When the questions answer has been selected, click "next"
+#### Free Response Question 
+1. If you selected the "Text" question type, you will be presented with a single text box <br> ![free-response-option](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/free-response-options.png)
+2. Here you will enter the answer to the question
+3. When you have filled in the text box with the answer to the question, press "next"
+
+#### Sumbitting the quiz question 
+1. When finished answering the question under the desired question type, the next step is to save the question or the whole quiz <br> ![quiz-builder-last-step](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/last-step-of-quiz-builder.png)
+2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question
+3. If the user is done creating the quiz, they can click "Save Quiz" and exit out of the Quiz Builder form 
+
 
 ### Delete a Section 
 1. From the edit curriculum page, next to the section you wish to delete, press the red "DEL" button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-button.png)
