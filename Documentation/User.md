@@ -9,14 +9,25 @@ User Manual
 ## Navigation
 How-To:
 
+# Register
+1. When at the login page <br> ![login screen](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/sign-in-page.png)
+2. Select the "Register" button 
+3. You will be brought new page with textboxes ![register-page](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/register-textboxes.png)
+4. Enter your email and a password 
+5. Click "Register" 
+6. You can now use that information to login to the system 
 
+# Login
+1. When at the login page <br> ![login screen](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/sign-in-page.png)
+2. Enter your email and password that belongs to your account in the corresponding textboxes 
+3. When credentials are added click login button
+4. You should be logged in and at the home page
 
 # View Available Courses 
-
 1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png) 
    This will bring you to the course dashboard that shows all the available courses
-   
-# Add a Course 
+# Admin/Author View 
+## Add a Course 
 1. From the sidebar on the left of the screen, click the Create Course tab, ![course create tab](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-course-tab.png) underneath the available course button 
 - The application allows users to create a course from scratch and to copy an existing course along with any exisiting material
 
@@ -38,8 +49,7 @@ How-To:
 6. The new course can now be seen and accessed from the view course tab 
 
 
-# View Content in Available courses
-
+## View Content in Available courses
 1. Follow the steps above to get to the course dashboard 
 ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course-dashboard.png)
 2. Click on the desired course name
@@ -47,15 +57,13 @@ How-To:
 ![image](https://user-images.githubusercontent.com/29185972/140863619-6613ac74-a31d-4a18-9c67-6f2e1e0d40c9.png)
 4. The files housed in the module will be listed
 
-# Building out a curriculum
-
+## Building out a curriculum
 ### Add Section to Available Course
 1. When viewing the content in courses click the edit curriculum button at the bottom right of the content dashboard ![image](https://user-images.githubusercontent.com/29185972/140863830-b77c8e08-c09d-44d9-861f-3a9ef56dcb78.png)
 2. In the edit curriculum page, click the "Add New Section" button ![add-section-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-button.png)
 3. A dialog box will appear, enter the desired section name, and click the submit button to finish the section creation process <br> ![add-section-dialog](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/add-section-dialog.png)
 4. The section name will populate the screen when completed
 5. Click the "finish button" at the bottom of the page to finish the curriculum editing process
-
 ### Add Module to a Section
 1. Refer to the first step of the last instruction to get to the edit curriculum page
 2. A section is needed to create a module, if there are no sections available, follow the steps above to create one.
@@ -66,7 +74,6 @@ How-To:
 7. Click submit to finish adding the module to the current section
 8. Click the section name in order to reveal that the module has been added
 9. Finally, click the finish button at the bottom of the page to finish the curriculum editing process ![finish-edit](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/finish-curriculum-edit.png)
-
 ## Add content to a module
 - A module is required to add content to a course
 ### Add video content to a module 
@@ -76,14 +83,12 @@ How-To:
 4. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
 5. Click the module name in the course to see the uploaded content
 6. Click the finish button at the bottom of the page to finish the curriculum editing process
-
 ### Add quiz content to a module
 1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add content to
 2. In the dialog box that pops up, be sure to be in the "quiz" tab<br> ![add-quiz-content](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-content-dialog-quiz.png) 
 3. Enter the desired name for the quiz 
 4. Click the "Create Quiz" button 
 5. The page will reload and an empty quiz will be made under the selected module
-
 ### Add question to a quiz
 1. From the edit currriculum page, click the three vertical dots to the right of the quiz name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add questions to
 2. A small box will appear underneath the three dots, click the pencil button ![add-quiz-question-pencil](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/pencil-button.png)<br>
@@ -103,11 +108,15 @@ How-To:
 1. If you selected the "Text" question type, you will be presented with a single text box <br> ![free-response-option](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/free-response-options.png)
 2. Here you will enter the answer to the question
 3. When you have filled in the text box with the answer to the question, press "next"
-
 #### Submitting the quiz question 
 1. When finished answering the question under the desired question type, the next step is to save the question or the whole quiz <br> ![quiz-builder-last-step](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/last-step-of-quiz-builder.png)
 2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question
 3. If the user is done creating the quiz, they can click "Save Quiz" and exit out of the Quiz Builder form 
+
+### View Quiz Grades
+1. When the quiz has been made, click on the module that houses the view
+2. Click on the quiz that you would like to view the grades of
+3. A new page will load and show the grades of the students that have taken the quiz
 
 ### Delete a Section 
 1. From the edit curriculum page, next to the section you wish to delete, press the three vertical dots ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
@@ -122,7 +131,7 @@ How-To:
 2. When the list of contents is available, click the name of the video you wish to watch
 3. The video will be brought up in another page 
 
-# Add/Remove authors to a course 
+## Add/Remove authors to a course 
 - As an admin, from the available courses dashboard, click the course that you would like to add authors to
 - When in the course, on the side panel to the left of the sections, click "Authors" <br> ![authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
 ### Add authors 
@@ -136,7 +145,7 @@ How-To:
 3. When the authors email is entered, press the "Remove Author" button 
 4. When you are finished removing the authors, press the "Complete" button
 
-# Add/Remove students to a course 
+## Add/Remove students to a course 
 - As an admin or an author, from the available courses dashboard, click the course that you would like to add students to
 - When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
 ### Add students 
@@ -149,3 +158,17 @@ How-To:
 2. Enter the students email that you wish to remove from the class
 3. When the students email is entered, press the "Remove Student" button 
 4. When you are finished removing the students, press the "Complete" button
+
+# Student View
+
+## Taking a quiz
+1. As a student, inside of a course and the courses module, click the name of the quiz you would like to take. 
+2. You will be taken to another page that presents you with questions
+3. Go through each question and select or type the answer you wish to provide
+4. When all of the questions have an answer, click "Submit" at the bottom of the page 
+
+## Stream uploaded videos
+1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
+2. When the list of contents is available, click the name of the video you wish to watch
+3. The video will be brought up in another page 
+
