@@ -102,22 +102,34 @@ How-To:
 2. Here you will enter the answer to the question
 3. When you have filled in the text box with the answer to the question, press "next"
 
-#### Sumbitting the quiz question 
+#### Submitting the quiz question 
 1. When finished answering the question under the desired question type, the next step is to save the question or the whole quiz <br> ![quiz-builder-last-step](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/last-step-of-quiz-builder.png)
 2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question
 3. If the user is done creating the quiz, they can click "Save Quiz" and exit out of the Quiz Builder form 
 
-
 ### Delete a Section 
-1. From the edit curriculum page, next to the section you wish to delete, press the red "DEL" button ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-button.png)
-2. A dialog box will open, click the "Delete" button to finish the deletion process <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/delete-section-dialog.png)
-3. Click the finish button at the bottom of the page to finish the curriculum editing process
+1. From the edit curriculum page, next to the section you wish to delete, press the three vertical dots ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
+2. A small box will appear under the vertical dots, click the red trashcan button <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/trashcan-button.png)
 
 ### Reorder Section, Module, or Content in a Module
 1. From the edit curriculum page, click and hold the name of the component you wish to rearrange and move it to the desired position. 
 2. Click the finish button at the bottom of the page to finish the curriculum editing process
 
-### Stream the uploaded videos
+## Stream uploaded videos
 1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
 2. When the list of contents is available, click the name of the video you wish to watch
-3. The video will be brought up in another page ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/video-streaming.png)
+3. The video will be brought up in another page 
+
+# Add/Remove students to a course 
+- As an admin or an author, from the available courses dashboard, click the course that you would like to add students to
+- When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+### Add students 
+1. You will be presented with a text box, enter the email of the student you wish to add to the course ![add-students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-student-to-class.png)
+2. When the students email is entered press the "Add Student" button, the email of the student will be listed below
+3. When you are finished adding the students, press the "Complete" button
+
+### Remove Students
+1. Underneath the textbox for "Add Student" there is a textbox for "Remove Student" ![remove-student](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/remove-student-from-class.png)
+2. Enter the students email that you wish to remove from the class
+3. When the students email is entered, press the "Remove Student" button 
+4. When you are finished removing the students, press the "Complete" button
