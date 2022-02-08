@@ -9,6 +9,8 @@ User Manual
 ## Navigation
 How-To:
 
+
+
 # View Available Courses 
 
 1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/course_icon.png) 
@@ -119,6 +121,20 @@ How-To:
 1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
 2. When the list of contents is available, click the name of the video you wish to watch
 3. The video will be brought up in another page 
+
+# Add/Remove authors to a course 
+- As an admin, from the available courses dashboard, click the course that you would like to add authors to
+- When in the course, on the side panel to the left of the sections, click "Authors" <br> ![authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+### Add authors 
+1. You will be presented with a text box, enter the email of the author you wish to add to the course ![add-authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-author.png)
+2. When the auhtors email is entered press the "Add Author" button, the email of the author will be listed below
+3. When you are finished adding the auhtors, press the "Complete" button
+
+### Remove Authors
+1. Underneath the textbox for "Add Author" there is a textbox for "Remove Author" ![remove-authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/remove-author.png)
+2. Enter the authors email that you wish to remove from the class
+3. When the authors email is entered, press the "Remove Author" button 
+4. When you are finished removing the authors, press the "Complete" button
 
 # Add/Remove students to a course 
 - As an admin or an author, from the available courses dashboard, click the course that you would like to add students to
