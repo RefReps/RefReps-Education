@@ -168,7 +168,8 @@ How-To:
 4. When all of the questions have an answer, click "Submit" at the bottom of the page 
 
 ## Stream uploaded videos
-1. From the course dashboard, click the name of the module in which the content is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/listed-content.png)
-2. When the list of contents is available, click the name of the video you wish to watch
-3. The video will be brought up in another page 
+1. From the course dashboard, click the name of the module in which the video is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/listed-content.png)<br>
+   - Any file that has ".mp4" is a video that can be watched
+3. When the list of contents is available, click the name of the video you wish to watch
+4. The video will be brought up in another page 
 
