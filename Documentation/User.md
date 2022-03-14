@@ -12,9 +12,9 @@ How-To:
 # Register
 1. When at the login page <br> ![login screen](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/sign-in-page.png)
 2. Select the "Register" button 
-3. You will be brought new page with textboxes ![register-page](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/register-textboxes.png)
+3. You will be brought new page with textboxes ![register-textboxes](https://user-images.githubusercontent.com/29185972/158277421-75a9a359-34eb-4c9b-879b-1639955f272b.png)
 4. Enter your email and a password 
-5. Click "Register" 
+5. Click "Sign Up" 
 6. You can now use that information to login to the system 
 
 # Login
@@ -138,7 +138,13 @@ You must have registered for an account to join a course
 #### Rearranging questions
 1. When in the edit quiz page of the quiz you wish to edit, click and drag the question you want to move and drop it on top of where you would like it to be<br>
 ![drag-drop-questions](https://user-images.githubusercontent.com/29185972/158276146-ea18c956-7b85-4c77-87c8-b05519130a7b.png)
-3. click the "Save Quiz" button when finished ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
+2. click the "Save Quiz" button when finished ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
+
+### Add Drop Dates to Content
+1. In the course curriculum page, click the three vertical dots ![three-vertical-dots](https://user-images.githubusercontent.com/29185972/158278814-96866477-97ca-44b0-8d57-c0434af160f1.png)
+next to the content you would like to add drop dates to.
+2. Click the "drop dates" option ![drop-date-edit-btn](https://user-images.githubusercontent.com/29185972/158279103-65121ed6-cbdc-4460-91ff-4d7a745ee037.png)
+3. Enter the date and time that you want the content to drop at <br>![select-drop-date](https://user-images.githubusercontent.com/29185972/158279049-bcb2a951-cb4b-4909-9c29-b693a2868b98.png)
 
 
 ### Setting Course Enforcements
@@ -151,9 +157,13 @@ You must have registered for an account to join a course
 - To lock a coupon code as an author, so the code will not work, toggle the "Lock Coupon Code" toggle switch
 
 ### View Quiz Grades
-1. When the quiz has been made, click on the module that houses the view
-2. Click on the quiz that you would like to view the grades of
-3. A new page will load and show the grades of the students that have taken the quiz
+1. As an admin/author click on the quiz that you would like to see the grades for
+2. It will take you to a landing page where you can see the students submissions and grades <br>![viewing-grades-Itr4](https://user-images.githubusercontent.com/29185972/158276626-e6083c73-c841-4c16-bb9a-fd2bed2864ac.png)
+
+### View Individual Submissions
+1. Click the quiz that you would like to view the submissions of
+2. Click the eye button next to the students submission in that you wish to see ![viewing-quiz-sub-student-it4](https://user-images.githubusercontent.com/29185972/158277042-46823df9-0160-49d5-b11a-940980a379f7.png)
+3. This will route you to a pgae that shows the details of the students submission <br>![view-students-sub](https://user-images.githubusercontent.com/29185972/158277236-78381081-99e3-4ed0-906f-ba14170bdd89.png)
 
 ### Delete a Section 
 1. From the edit curriculum page, next to the section you wish to delete, press the three vertical dots ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
@@ -220,9 +230,17 @@ You must have registered for an account to join a course
 
 ## Taking a quiz
 1. As a student, inside of a course and the courses module, click the name of the quiz you would like to take. 
-2. You will be taken to another page that presents you with questions
+2. You will be taken to another page that presents you a "Start Quiz" button and the details of your previous submissions. <br> ![quiz-landing-page](https://user-images.githubusercontent.com/29185972/158277666-ca3f82d2-77c7-424e-bf3e-7fc1fc8fe04d.png)
 3. Go through each question and select or type the answer you wish to provide
 4. When all of the questions have an answer, click "Submit" at the bottom of the page 
+
+## Viewing Past Submissions
+1. Click the quiz that you would like to view the submission of
+2. Click the eye button next to the submission that you wish to see ![viewing-quiz-sub-student-it4](https://user-images.githubusercontent.com/29185972/158277042-46823df9-0160-49d5-b11a-940980a379f7.png)
+3. This will route you to a page that shows the details of your submission
+
+## Locked Content
+- If there is a lock next to the quiz name, you cannot take the quiz until it is past the lock date. <br> ![locked-quiz](https://user-images.githubusercontent.com/29185972/158278489-842e7303-f71c-42a9-a09e-e415a7f4d531.png)
 
 ## Stream uploaded videos
 1. From the course dashboard, click the name of the module in which the video is located to expand the content list<br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/listed-content.png)<br>
