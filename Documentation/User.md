@@ -26,6 +26,21 @@ How-To:
 # View Available Courses 
 1. From the sidebar on the left side, click the Courses button ![course button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course_icon.png) 
    This will bring you to the course dashboard that shows all the available courses
+
+# Join an Existing Course 
+You must have registered for an account to join a course
+## Join a course by the invite code 
+1. If you need to join a course, contact your instructor for a course coupon code. 
+2. Once in possession of an invite code, navigate to the available courses. 
+3. At the bottom of the available courses, there will be a text box to enter a coupon code. ![coupon code](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/join-by-coupon-code.png)
+4. Type the code provided by your instructor and press "Join Course"
+5. The page will reload nd you will be added to the course
+
+## Join a course by the link
+1. If your instructor sent you a link instead of a code log in to your account and paste the link into the URL section of your browser. 
+![invite link](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/url-invite-link.png)
+2. The page will reload and you will be added to the course. 
+
 # Admin/Author View 
 ## Add a Course 
 1. From the sidebar on the left of the screen, click the Create Course tab, ![course create tab](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-course-tab.png) underneath the available course button 
@@ -90,9 +105,9 @@ How-To:
 4. Click the "Create Quiz" button 
 5. The page will reload and an empty quiz will be made under the selected module
 ### Add question to a quiz
-1. From the edit currriculum page, click the three vertical dots to the right of the quiz name ![add-content-button](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png) that you wish to add questions to
-2. A small box will appear underneath the three dots, click the pencil button ![add-quiz-question-pencil](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/pencil-button.png)<br>
-3. A dialog box will appear with the title "Quiz Builder" <br> ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/quiz-builder-dialog.png)
+1. As an author/admin, from the currriculum home page, select the quiz that you would like to edit
+2. This will take you to a quiz landing page, click the blue "Edit Quiz" button <br> ![edit-quiz](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/edit-quiz-btn.png)
+3. If there are already questions in the quiz, scroll to the bottom of the page, click the " Add New Question" button ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/User.md)
 4. Add the question that you would like to ask, and select the type of question it will be, i.e. Multiple Choice, True/False, or text box free response
    - The selected question type will change the options that you have moving forward
 5. When done entering the question and the type of question, click next.  The next step will change depending on the type of question that was chosen
@@ -109,9 +124,31 @@ How-To:
 2. Here you will enter the answer to the question
 3. When you have filled in the text box with the answer to the question, press "next"
 #### Submitting the quiz question 
-1. When finished answering the question under the desired question type, the next step is to save the question or the whole quiz <br> ![quiz-builder-last-step](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/last-step-of-quiz-builder.png)
-2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question
-3. If the user is done creating the quiz, they can click "Save Quiz" and exit out of the Quiz Builder form 
+1. When finished with the question, the next step is to save the question or the whole quiz <br> ![quiz-builder-last-step](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/last-step-of-quiz-builder.png)
+2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question.
+3. If the user is done creating the quiz, they can exit the quiz question creation box, and next to the "Add New Question" button, click the "Save Quiz" button ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
+
+#### Deleting a quiz question 
+1. When looking at the question you want to delete, click the three vertical dots to open an options menu
+![options-menu-delete-question](https://user-images.githubusercontent.com/29185972/158275868-292f4fad-ce14-4eba-90df-a75e0c540fac.png)
+2. Click the red trashcan to delete the question
+3. Click the "Save Quiz" button ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
+
+
+#### Rearranging questions
+1. When in the edit quiz page of the quiz you wish to edit, click and drag the question you want to move and drop it on top of where you would like it to be<br>
+![drag-drop-questions](https://user-images.githubusercontent.com/29185972/158276146-ea18c956-7b85-4c77-87c8-b05519130a7b.png)
+3. click the "Save Quiz" button when finished ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
+
+
+### Setting Course Enforcements
+- As an admin/author, from the available courses dashboard, click the course that you would like to change course enforcements for
+- When in the course, on the side panel to the left of the sections, click "Settings" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+- The top box will be used for changes course enforcements <br>![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-enforcement-settings.png)
+- You can turn course enforcements off completely by toggling the "Course Enforcements" toggle
+- To change the required quiz grade by percent, enter the percentage desireed next to "Enforcement Percent"
+- To change the allowed quiz attempts, enter the amount of attempts next to "Max Quiz Attempts"
+- To lock a coupon code as an author, so the code will not work, toggle the "Lock Coupon Code" toggle switch
 
 ### View Quiz Grades
 1. When the quiz has been made, click on the module that houses the view
@@ -134,6 +171,7 @@ How-To:
 ## Add/Remove authors to a course 
 - As an admin, from the available courses dashboard, click the course that you would like to add authors to
 - When in the course, on the side panel to the left of the sections, click "Authors" <br> ![authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+
 ### Add authors 
 1. You will be presented with a text box, enter the email of the author you wish to add to the course ![add-authors](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-author.png)
 2. When the auhtors email is entered press the "Add Author" button, the email of the author will be listed below
@@ -148,6 +186,7 @@ How-To:
 ## Add/Remove students to a course 
 - As an admin or an author, from the available courses dashboard, click the course that you would like to add students to
 - When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+
 ### Add students 
 1. You will be presented with a text box, enter the email of the student you wish to add to the course ![add-students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/add-student-to-class.png)
 2. When the students email is entered press the "Add Student" button, the email of the student will be listed below
@@ -158,6 +197,24 @@ How-To:
 2. Enter the students email that you wish to remove from the class
 3. When the students email is entered, press the "Remove Student" button 
 4. When you are finished removing the students, press the "Complete" button
+
+## Invite Students to the Course
+### Create a Coupon Code
+- As an admin, from the available courses dashboard, click the course that you would like to invite students to
+- When in the course, on the side panel to the left of the sections, click "Settings" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+- In the bottom box, you can customize the settings for the invite code <br> ![invite-code-settings](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-link-settings.png)
+- You can set the desired student capacity by entering number next to "Student Capacity"
+- You can set the name of the coupon code by typing the name you want next to the section that says "Coupon Code"
+- To set the date that the code expires, enter the desired date next to "Coupon Valid Until"
+- Click "Save" when you are done
+- You can send the Coupon Code name to the students to join
+
+### Get an invite link for students
+- As an admin, from the available courses dashboard, click the course that you would like to invite students to
+- When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-side-bar.png)
+- At the bottom of the Students dashboard there is a "Course Link" ![course-link](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/course-invite-link.png)
+- Copy the link and send it to your students
+- The students must have an account registered for the invite link to work for them
 
 # Student View
 
