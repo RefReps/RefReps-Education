@@ -240,7 +240,9 @@ next to the content you would like to add drop dates to.
 ## Viewing Past Submissions
 1. Click the quiz that you would like to view the submission of
 2. Click the eye button next to the submission that you wish to see ![viewing-quiz-sub-student-it4](https://user-images.githubusercontent.com/29185972/158277042-46823df9-0160-49d5-b11a-940980a379f7.png)
-3. This will route you to a page that shows the details of your submission
+3. This will route you to a page that shows the details of your submission <br> 
+![graded-student-quiz](https://user-images.githubusercontent.com/29185972/158287975-d750a68f-f1d8-4711-9589-241c31db8c00.png)
+4. Your questions will be highlighted green if they are right, or red is they are wrong.
 
 ## Locked Content
 - If there is a lock next to the quiz name, you cannot take the quiz until it is past the lock date. <br> ![locked-quiz](https://user-images.githubusercontent.com/29185972/158278489-842e7303-f71c-42a9-a09e-e415a7f4d531.png)
