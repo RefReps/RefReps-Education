@@ -128,12 +128,14 @@ You must have registered for an account to join a course
 2. The user can click "Save Question" to save the question, and then click "Reset" to reset the form and add another question.
 3. If the user is done creating the quiz, they can exit the quiz question creation box, and next to the "Add New Question" button, click the "Save Quiz" button ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
 
+#### Viewing Already Made Quiz 
+The questions will be listed with the answer to the question highlighted. <br>![correct_answer](https://user-images.githubusercontent.com/29185972/158287440-5072aef5-24d1-4088-82bf-fed123c7f0f5.png)
+
 #### Deleting a quiz question 
 1. When looking at the question you want to delete, click the three vertical dots to open an options menu
 ![options-menu-delete-question](https://user-images.githubusercontent.com/29185972/158275868-292f4fad-ce14-4eba-90df-a75e0c540fac.png)
 2. Click the red trashcan to delete the question
 3. Click the "Save Quiz" button ![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/SAVE-QUIZ-BTN.png)
-
 
 #### Rearranging questions
 1. When in the edit quiz page of the quiz you wish to edit, click and drag the question you want to move and drop it on top of where you would like it to be<br>
@@ -145,6 +147,7 @@ You must have registered for an account to join a course
 next to the content you would like to add drop dates to.
 2. Click the "drop dates" option ![drop-date-edit-btn](https://user-images.githubusercontent.com/29185972/158279103-65121ed6-cbdc-4460-91ff-4d7a745ee037.png)
 3. Enter the date and time that you want the content to drop at <br>![select-drop-date](https://user-images.githubusercontent.com/29185972/158279049-bcb2a951-cb4b-4909-9c29-b693a2868b98.png)
+
 
 
 ### Setting Course Enforcements
