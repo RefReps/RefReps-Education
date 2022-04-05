@@ -1,7 +1,7 @@
 # RefReps-Education
 
 ## Summary
-Some high-level summary of the project 
+A learning management system designed for RefReps for use training future referees 
 
 ## Team Members
 - Max Kidd
