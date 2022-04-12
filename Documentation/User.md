@@ -4,8 +4,6 @@ User Manual
 
 ----------
 
-# Dashboard
-
 ## Navigation
 How-To:
 
@@ -237,6 +235,23 @@ Force completing **WILL** allow the student to skip over the content if they cho
 ![student-progress-menu](./Pictures/progress-link.png)
 4. Notice the progress page ![progress-page](./Pictures/progress-force-complete.png)
 5. Click the `green circular checkmark` on students you wish to force complete the content
+
+### Keep Content Open 
+The progression system follows a top down flow pattern. The first content must be completed to move on to the next.<br>
+Administrators and Instructors can override this when editing the course. ([click here for information to navigate there](#building-out-a-curriculum))
+1. While in the edit course page, click the three vertical dots to the right of the content you would like to keep open
+![vertical dots](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
+<br>
+2. A menu will pop up, click the "Keep Open" option <br>
+![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-edit-menu.png)
+<br> 
+3. The page will reload and a yellow star will appear to the left of the drop date<br>
+![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-kept-open.png)
+
+4. To **close** the content again, follow the same steps to open the menu and click the "close" option<br> 
+![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-kept-closed.png)
+
+
 
 ### Delete a Section 
 1. From the edit curriculum page, next to the section you wish to delete, press the three vertical dots ![image](./Pictures/three-vertical-dots.png)
