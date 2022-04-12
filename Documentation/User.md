@@ -10,7 +10,7 @@ How-To:
 # Register
 1. When at the login page <br> ![login screen](./Pictures/sign-in-page.png)
 2. Select the "Register" button 
-3. You will be brought new page with textboxes ![register-textboxes](./Pictures/create-account.png)
+3. You will be brought new page with textboxes <br>![register-textboxes](./Pictures/create-account.png)
 4. Enter your first and last name, email, and password
 5. Click "Sign Up" 
 6. You can now use that information to login to the system (it should automatically log you in upon clicking sign up)
@@ -36,14 +36,14 @@ How-To:
    - Enter: `db.users.updateMany({email: {$eq: 'admin@email.com'}}, {$set: {role: 'admin'}})` where admin@email.com is the desired account email you wish to make an admin
 
 # Displaying all Users (Admin)
-1. Once logged in as an admin, navigate to `list all users` on the sidnav ![nav-users](./Pictures/list-every-user-nav.png)
+1. Once logged in as an admin, navigate to `list all users` on the sidnav <br> ![nav-users](./Pictures/list-every-user-nav.png)
 2. Notice the users listed ![all-users](./Pictures/display-all-users.png)
 3. Feel free to use the filter users. (searches search across email, name, and role)
 
 # Updating a User's Password (Admin)
 1. Navigate to display all users [click here to see how](#displaying-all-users-admin)
 2. When looking at the users, click the menu edit button on the user row, then click `change password`
-3. When prompted, enter the new password (and confirm)
+3. When prompted, enter the new password (and confirm)<br>
 ![change-password](./Pictures/user-edit-password.png)
 4. Click `Confirm` to accept this change
 
@@ -56,7 +56,7 @@ How-To:
 ## Join a course by the invite code 
 1. If you need to join a course, contact your instructor for a course coupon code. 
 2. Once in possession of an invite code, navigate to the available courses. 
-3. At the bottom of the available courses, there will be a text box to enter a coupon code. ![coupon code](./Pictures/join-by-coupon-code.png)
+3. At the bottom of the available courses, there will be a text box to enter a coupon code. <br> ![coupon code](./Pictures/join-by-coupon-code.png)
 4. Type the code provided by your instructor and press "Join Course"
 5. The page will reload nd you will be added to the course
 
@@ -93,7 +93,7 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 
 ## Delete a Course (Admin)
 1. Follow the steps above to get to the course dashboard
-2. Select the menu icon (3 dots on the course card)</br>
+2. Select the menu icon (3 dots on the course card)<br>
 ![course-card-menu](./Pictures/course-copy-from-dashboard.png)
 3. Click the delete option
 4. When prompted with the dialog, enter the course name in the input<br>
@@ -104,7 +104,7 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 1. Follow the steps above to get to the course dashboard 
 ![](./Pictures/course-dashboard.png)
 2. Click on the desired course name
-3. When the course page loads the section and module info will load <br/>
+3. When the course page loads the section and module info will load <br>
 ![image](./Pictures/course-home-contents.png)
 4. The files housed in the module will be listed
 
@@ -170,15 +170,15 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 The questions will be listed with the answer to the question highlighted. <br>![correct_answer](./Pictures/correct-answer-question.png)
 
 #### Deleting a quiz question 
-1. When looking at the question you want to delete, click the three vertical dots to open an options menu
+1. When looking at the question you want to delete, click the three vertical dots to open an options menu<br>
 ![options-menu-delete-question](./Pictures/menu-trash-icon.png)
 2. Click the red trashcan to delete the question
-3. Click the "Save Quiz" button ![](./Pictures/SAVE-QUIZ-BTN.png)
+3. Click the "Save Quiz" button <br> ![](./Pictures/SAVE-QUIZ-BTN.png)
 
 #### Rearranging questions
 1. When in the edit quiz page of the quiz you wish to edit, click and drag the question you want to move and drop it on top of where you would like it to be<br>
 ![drag-drop-questions](./Pictures/move-questions-around.png)
-2. click the "Save Quiz" button when finished ![](./Pictures/SAVE-QUIZ-BTN.png)
+2. click the "Save Quiz" button when finished <br> ![](./Pictures/SAVE-QUIZ-BTN.png)
 
 ### Add Drop Dates to Content
 1. In the course curriculum page, click the three vertical dots ![three-vertical-dots](./Pictures/three-vertical-dots.png)
@@ -231,7 +231,7 @@ Force completing **WILL** allow the student to skip over the content if they cho
 
 1. Go to the edit course ([click here for information to navigate there](#building-out-a-curriculum))
 2. Click on the content's menu button you wish to force complete a student on
-3. Click `student progress`
+3. Click `student progress`<br>
 ![student-progress-menu](./Pictures/progress-link.png)
 4. Notice the progress page ![progress-page](./Pictures/progress-force-complete.png)
 5. Click the `green circular checkmark` on students you wish to force complete the content
@@ -241,12 +241,10 @@ The progression system follows a top down flow pattern. The first content must b
 Administrators and Instructors can override this when editing the course. ([click here for information to navigate there](#building-out-a-curriculum))
 1. While in the edit course page, click the three vertical dots to the right of the content you would like to keep open
 ![vertical dots](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/three-vertical-dots.png)
-<br>
 2. A menu will pop up, click the "Keep Open" option <br>
-![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-edit-menu.png)
-<br> 
+![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-edit-menu.png)
 3. The page will reload and a yellow star will appear to the left of the drop date<br>
-![](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-kept-open.png)
+![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-kept-open.png)
 
 4. To **close** the content again, follow the same steps to open the menu and click the "close" option<br> 
 ![image](https://github.com/mkidd04/RefReps-Education/blob/main/Documentation/Pictures/IT5-kept-closed.png)
@@ -310,7 +308,7 @@ Administrators and Instructors can override this when editing the course. ([clic
 ### Get an invite link for students
 - As an admin, from the available courses dashboard, click the course that you would like to invite students to
 - When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](./Pictures/course-side-bar.png)
-- At the bottom of the Students dashboard there is a "Course Link" ![course-link](./Pictures/course-invite-link.png)
+- At the bottom of the Students dashboard there is a "Course Link" <br> ![course-link](./Pictures/course-invite-link.png)
 - Copy the link and send it to your students
 - The students must have an account registered for the invite link to work for them
 
