@@ -19,10 +19,10 @@
 
 ## Paragraphs 
 - Hunter 
-- -
+--
 - Annie 
-- -
+--
 - Max 
-- -
+--
 - Jacob
-- - 
+-- 
