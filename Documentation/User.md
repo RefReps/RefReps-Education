@@ -127,6 +127,17 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 9. Finally, click the finish button at the bottom of the page to finish the curriculum editing process ![finish-edit](./Pictures/finish-curriculum-edit.png)
 ## Add content to a module
 - A module is required to add content to a course
+
+### Add Announcement to a module 
+1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](./Pictures/three-vertical-dots.png) that you wish to add an announcement to
+2. A box will pop up with three tabs, click the "Announcement" tab <br> ![announcement-tab](./Pictures/IT5-announcement-tab.png)
+3. You will be presented with two text boxes, the top one is to make a title for the announcment, every announcement must have a title <br> 
+![announcement-title](./Pictures/IT5-announcement-title.png)
+4.The bottom text box is where you will add the announcement <br>
+![announcement-editor](./Pictures/IT5-announcement-text-editor.png)
+5. When finished with the announcement press the "Post" button ![announcement-title](./Pictures/IT5-announcement-post.png)
+6. The page will reload and the announcement should be present in the module, Announcements have a speaker icon ![announcement-speaker](./Pictures/IT5-announcement-speaker.png) next to them 
+
 ### Add video content to a module 
 1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](./Pictures/three-vertical-dots.png) that you wish to add content to
 2. In the dialog box that pops up, be sure to be in the "video" tab<br>![image](./Pictures/add-content-dialog.png)
@@ -134,9 +145,11 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 4. The dialog box will now have the file, click the green submit button at the bottom of the dialog to add the file to the module.
 5. Click the module name in the course to see the uploaded content
 6. Click the finish button at the bottom of the page to finish the curriculum editing process
+
+
 ### Add quiz content to a module
 1. From the edit currriculum page, click the three vertical dots to the right of the module name ![add-content-button](./Pictures/three-vertical-dots.png) that you wish to add content to
-2. In the dialog box that pops up, be sure to be in the "quiz" tab<br> ![add-quiz-content](./Pictures/add-content-dialog-quiz.png) 
+2. In the dialog box that pops up, be sure to be in the "quiz" tab <br> ![add-quiz-content](./Pictures/add-content-dialog-quiz.png) 
 3. Enter the desired name for the quiz 
 4. Click the "Create Quiz" button 
 5. The page will reload and an empty quiz will be made under the selected module
@@ -283,10 +296,15 @@ Administrators and Instructors can override this when editing the course. ([clic
 - As an admin or an author, from the available courses dashboard, click the course that you would like to add students to
 - When in the course, on the side panel to the left of the sections, click "Students" <br> ![students](./Pictures/course-side-bar.png)
 
-### Add students 
+### Add students by text box 
 1. You will be presented with a text box, enter the email of the student you wish to add to the course ![add-students](./Pictures/add-student-to-class.png)
 2. When the students email is entered press the "Add Student" button, the email of the student will be listed below
 3. When you are finished adding the students, press the "Complete" button
+
+### Add students by CSV
+1. You will be presented with a box to the right of the screen that says "Import Student Emails from CSV" <br> ![CSV](./Pictures/IT5-CSV-box.png)
+2. Click the blue button with the paper clip to open your file explorer <br> ![CSV-button](./Pictures/IT5-add-students-CSV.png)
+3. The students that have a registered account will be added to the student table 
 
 ### Remove Students
 1. Underneath the textbox for "Add Student" there is a textbox for "Remove Student" ![remove-student](./Pictures/remove-student-from-class.png)
