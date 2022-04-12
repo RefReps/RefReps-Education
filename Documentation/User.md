@@ -95,10 +95,10 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 
 ## Delete a Course (Admin)
 1. Follow the steps above to get to the course dashboard
-2. Select the menu icon (3 dots on the course card)
+2. Select the menu icon (3 dots on the course card)</br>
 ![course-card-menu](./Pictures/course-copy-from-dashboard.png)
 3. Click the delete option
-4. When prompted with the dialog, enter the course name in the input
+4. When prompted with the dialog, enter the course name in the input<br>
 ![course-delete-confirmation](./Pictures/course-delete-dialog-confirmation.png)
 5. Click the delete button to confirm deleting the course (this will soft delete the course)
 
@@ -106,7 +106,7 @@ Alternatively, you may also copy a course from the dashboard and click the menu 
 1. Follow the steps above to get to the course dashboard 
 ![](./Pictures/course-dashboard.png)
 2. Click on the desired course name
-3. When the course page loads the section and module info will load
+3. When the course page loads the section and module info will load <br/>
 ![image](./Pictures/course-home-contents.png)
 4. The files housed in the module will be listed
 
