@@ -15,11 +15,17 @@ services:
     ports:
       - '3000:3000'
     environment: 
-      - HOST="localhost"
+      - HOST=localhost
       - PORT=3000
       - DB_CONNECT=mongodb://mongo:27017/refrep
       - TOKEN_SECRET=random_string
       - LOCAL_UPLOAD_PATH=uploads/
+      - FRONTEND_URL=http://localhost:4200
+      - SEND_EMAILS=false
+      - GOOGLE_USER=email
+      - GOOGLE_OAUTH_CLIENT_ID=id
+      - GOOGLE_OAUTH_CLIENT_SECRET=secret
+      - GOOGLE_OAUTH_REFRESH_TOKEN=secret
     links:
       - mongo
 
@@ -28,3 +34,6 @@ services:
     build: ./refprep-frontend
     ports:
       - "80:80"
+
+
+
