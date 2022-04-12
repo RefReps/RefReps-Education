@@ -23,6 +23,6 @@
 - Annie 
 --
 - Max 
---
+ - The student symposium was a nice experience. It was nice to share our creation with people and the presenting helped us give an "Elevator" pitch of the application and its capabilities. It will definitely help us with the future presentations of our project. I thought we got a decent amount of people to come see our project and they all were pretty satisfied. 
 - Jacob
 -- 
