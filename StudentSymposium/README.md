@@ -19,7 +19,8 @@
 
 
 Group Photo!
-![image](https://user-images.githubusercontent.com/54285659/163094008-24517e7d-8579-49be-9f92-00528130225a.png)
+![image](https://user-images.githubusercontent.com/54285659/163094394-3bd5ca89-c1bf-4a72-b861-d62ac7dfc19a.png)
+
 
 
 ## Paragraphs 
