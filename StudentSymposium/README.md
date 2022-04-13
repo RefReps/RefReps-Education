@@ -16,6 +16,8 @@
 ![image2](https://github.com/mkidd04/RefReps-Education/blob/main/Auxiliary%20Files/SYMPOSIUM2.jpg)
 ![image3](https://github.com/mkidd04/RefReps-Education/blob/main/Auxiliary%20Files/SYMPOSIUM3.jpg)
 ![image4](https://github.com/mkidd04/RefReps-Education/blob/main/Auxiliary%20Files/SYMPOSIUM4.jpg)
+
+
 Group Photo!
 ![image](https://user-images.githubusercontent.com/54285659/163094008-24517e7d-8579-49be-9f92-00528130225a.png)
 
